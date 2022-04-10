@@ -1,7 +1,7 @@
 <p><div align="center">
 <img src="https://res.cloudinary.com/c21h30/image/upload/v1649528639/portfolio/lainamae_nxvfhu.png" alt="laina mae banner"></p>
 
-<p><a href="https://www.twitteer.com/lainamae_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="@lainamae on twitter"></a>
+<p><a href="https://www.twitter.com/lainamae_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="@lainamae on twitter"></a>
 <a href="https://www.linkedin.com/in/lainamae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Laina Marciano on LinkedIn"></a>
 <a href=""><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&amp;logo=Codewars&amp;logoColor=white" alt=""></a></p>
 
